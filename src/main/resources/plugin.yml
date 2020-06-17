@@ -1,0 +1,10 @@
+name: AvNMusic
+version: ${project.version}
+main: ca.avalonmc.avnmusic.AvNMusic
+api-version: 1.13
+prefix: AvNMusic
+authors: [Marc_Seamus]
+description: Official Avalon music management plugin
+commands:
+  avnm:
+    description: The core command.
